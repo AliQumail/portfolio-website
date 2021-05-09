@@ -1,0 +1,33 @@
+/* headlines with lines */
+
+.decorated{
+    overflow: hidden;
+    text-align: center;
+    color:goldenrod;
+    font-style: italic;
+    font-weight: bold;
+}
+.decorated > span{
+   position: relative;
+   display: inline-block;
+}
+.decorated > span:before, .decorated > span:after{
+   content: '';
+   position: absolute;
+   top: 50%;
+   border-bottom: 2px solid;
+   width: 591px; /* half of limiter*/
+   margin: 0 20px;
+}
+.decorated > span:before{
+   right: 100%;
+}
+.decorated > span:after{
+   left: 100%;
+}
+.summary-container{
+    margin-top:50px;
+}
+.cards-row{
+    margin-top:50px;
+}

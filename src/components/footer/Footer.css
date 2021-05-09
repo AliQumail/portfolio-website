@@ -1,0 +1,81 @@
+.footer-div{
+    background-color: #252829;
+}
+.hire-me-col{
+    padding:15px;
+    color:white;
+ 
+}
+.hire-me-title{
+   
+    
+    font-size: 1.5rem;
+    font-style: bold;
+    color:rgb(223, 0, 0);
+}
+.hire-me-para{
+    
+    font-size:1.1rem;
+}
+.email-col{
+    padding:15px;
+    color:white;
+    text-align: center;
+  
+ 
+}
+.email-para{
+ 
+    font-size: 1.2rem;
+  
+}
+
+.email-input{
+  margin:10px 0px 10px;
+  width: 325px;
+  height: 40px;
+  border-radius: 2%;
+}
+.message-textarea{
+  margin-top: 10px 0px 10px;
+  width: 325px;
+  height: 220px;
+  border-radius: 2%;
+  
+
+  resize: none;
+}
+.copyright-div{
+  background-color: hsla(0, 10%, 11%, 0.5);
+  text-align: center;
+  padding: 3px 0px 3px;
+  margin-top:45px;
+}
+.copyright-span{
+    font-style: italic;
+    font-size:1.3rem;
+    color:white;
+}
+.submit-button{ 
+
+    background-color:cornflowerblue;
+   border: none;
+   color: white;
+   padding: 10px 20px;
+   text-align: center; 
+   text-decoration: none;
+   display: inline-block;
+   font-size: 12px;
+   width:325px;
+   border-radius: 2%;
+    
+}
+.submit-button:hover{
+   background-color:rgb(58, 121, 240)
+}
+.my-email{
+    color:rgb(0, 140, 255)
+}
+.my-email:hover{
+    color:rgb(135, 197, 248)
+}

@@ -1,0 +1,57 @@
+*{
+    box-sizing: border-box;
+}
+.outer-div{
+    margin-top:20px;
+    background-color: #252829;
+    width:100%;
+    padding-top:125px;
+    padding-bottom: 125px;
+    color:white;
+}
+.outer-container{
+    background-color: #252829;
+    width:100%;
+
+}
+.introduction{
+    margin-top:35px;
+   
+}
+.animation{
+    
+} 
+
+.coding-gif{
+   border-radius:50%; 
+   height: 300px;
+   width: 350px;
+   overflow: hidden;
+}
+
+ .name {
+   font-size: 3.0rem;
+   color:rgb(214, 214, 50);
+   font-family: 'Itim', cursive;
+}
+ 
+ .key-tags{
+     color:rgb(199, 72, 72);
+     font-family: 'Itim', cursive;
+     font-size: 2.3rem;
+ }
+ .download-button{ 
+    background-color: transparent; /* Green */
+    border: solid 5px red;
+    border: none;
+    color: red;
+    padding: 10px 20px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+   
+    border-radius: 5%;
+     
+ }
+
