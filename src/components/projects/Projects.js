@@ -21,12 +21,12 @@ function Projects(){
   return <div className="projects-container">
   <h3 className='decorated mt-5'><span>Projects</span></h3> 
   <Container className='projects-container mb-5'>
-    <Row className='mt-5'>
+    <Row className='mt-5 justify-content-center'>
      
-    <Col>
+    <Col xl={8}>
         <img src={displayProject} alt='not supported' className="project-images"/>
     </Col>
-    <Col className='project-headings mb-4' xl={4} xm={4} >
+    <Col className='project-headings mb-4' >
         <ol className='mt-5'>
          <li className='project-name' onClick={() => handleClick(quizappgif)}>Quiz Taking App</li>
          <li className='project-name' onClick={() => handleClick(gpacalcgif)}>Gpa Calculator</li>

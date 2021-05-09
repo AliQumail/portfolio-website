@@ -8,8 +8,11 @@
 }
 .project-images{
   width: 100%;
-  max-width: 750px;
+  
   border:black 3px solid;
+}
+.project-headings{
+
 }
 
 
