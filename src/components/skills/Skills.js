@@ -9,7 +9,7 @@ function Skills(){
   return <div className='skills-outer-div'><Container>
      <h3 className='decorated mt-5'><span>Skills</span></h3> 
      <Row className='mt-5'>
-      <Col xl={4} xm={4} className=' d-flex justify-content-center'>
+      <Col xl={4} xm={3} xs={12} className=' d-flex justify-content-center'>
        <Card className='card' >
        <Card.Header style={{color:'red',fontSize:'1.3rem'}}>Programming</Card.Header>
         <Card.Body>

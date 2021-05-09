@@ -46,3 +46,11 @@
   
 }
 
+
+
+@media only screen and (min-width: 1000px) {
+  .project-row{
+    position: relative;
+    left:35px;
+  }
+}

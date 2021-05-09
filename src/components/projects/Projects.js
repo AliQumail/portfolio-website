@@ -18,9 +18,9 @@ function Projects(){
      setDisplayProject(value);
   }
   
-  return   <Container className='projects-container'>
+  return   <Container fluid className='projects-container'>
   <h3 className='decorated mt-5'><span>Projects</span></h3> 
-    <Row className='mt-5 justify-content-center'>
+    <Row fuild className='mt-5 project-row'>
      
     <Col xl={8}>
         <img src={displayProject} alt='not supported' className="project-images"/>
