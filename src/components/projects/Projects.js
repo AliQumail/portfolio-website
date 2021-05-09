@@ -18,9 +18,8 @@ function Projects(){
      setDisplayProject(value);
   }
   
-  return <div className="projects-container">
+  return   <Container className='projects-container'>
   <h3 className='decorated mt-5'><span>Projects</span></h3> 
-  <Container className='projects-container mb-5'>
     <Row className='mt-5 justify-content-center'>
      
     <Col xl={8}>
@@ -38,7 +37,7 @@ function Projects(){
       </Col>
       </Row>
 </Container>
-  </div>
+ 
  
 
 }
