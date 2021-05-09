@@ -42,7 +42,10 @@
  left: 100%;
 }
 .projects-container{
-  margin:70px 0px 150px;
+  margin:70px auto 150px;
+
+  width: 90%;
+
   
 }
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import {Container,Row,Col} from 'react-bootstrap';
+import {Row,Col} from 'react-bootstrap';
 
 import './Projects.css';
 
@@ -18,7 +18,7 @@ function Projects(){
      setDisplayProject(value);
   }
   
-  return   <Container fluid className='projects-container'>
+  return   <div><div className='projects-container'>
   <h3 className='decorated mt-5'><span>Projects</span></h3> 
     <Row fuild className='mt-5 project-row'>
      
@@ -36,7 +36,8 @@ function Projects(){
         You can see more projects on <a href='https://github.com/AliQumail'>Github</a>
       </Col>
       </Row>
-</Container>
+</div>
+</div>
  
  
 
