@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79847c9b.chunk.css",
+    "main.js": "/static/js/main.385947c7.chunk.js",
+    "main.js.map": "/static/js/main.385947c7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0733fe2d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0733fe2d.js.map",
+    "static/css/2.150d169a.chunk.css": "/static/css/2.150d169a.chunk.css",
+    "static/js/2.2561fd5a.chunk.js": "/static/js/2.2561fd5a.chunk.js",
+    "static/js/2.2561fd5a.chunk.js.map": "/static/js/2.2561fd5a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.79847c9b.chunk.css.map": "/static/css/main.79847c9b.chunk.css.map",
+    "static/js/2.2561fd5a.chunk.js.LICENSE.txt": "/static/js/2.2561fd5a.chunk.js.LICENSE.txt",
+    "static/media/coding.abbea761.gif": "/static/media/coding.abbea761.gif",
+    "static/media/gpacalcgif.2436952e.gif": "/static/media/gpacalcgif.2436952e.gif",
+    "static/media/journalappgif.8aab1bec.gif": "/static/media/journalappgif.8aab1bec.gif",
+    "static/media/quizappgif.299c0d22.gif": "/static/media/quizappgif.299c0d22.gif",
+    "static/media/resume.c0ffa255.pdf": "/static/media/resume.c0ffa255.pdf",
+    "static/media/smbgamegif.2f66bd61.gif": "/static/media/smbgamegif.2f66bd61.gif",
+    "static/media/tictactoegif.4c2ab74c.gif": "/static/media/tictactoegif.4c2ab74c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0733fe2d.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.2561fd5a.chunk.js",
+    "static/css/main.79847c9b.chunk.css",
+    "static/js/main.385947c7.chunk.js"
+  ]
+}

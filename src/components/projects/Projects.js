@@ -18,12 +18,13 @@ function Projects(){
      setDisplayProject(value);
   }
   
+  
   return   <div><div className='projects-container'>
   <h3 className='decorated mt-5'><span>Projects</span></h3> 
     <Row fuild className='mt-5 project-row'>
      
     <Col xl={8}>
-        <img src={displayProject} alt='not supported' className="project-images"/>
+        { displayProject ? <img src={displayProject} alt='not supported' className="project-images"/>  : <h3>Loading...</h3>}
     </Col>
     <Col className='project-headings mb-4' >
         <ol className='mt-5'>
